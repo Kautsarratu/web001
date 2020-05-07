@@ -1,0 +1,62 @@
+html{scroll-behavior: smooth;}
+body{background-color: #dbe2ef;}
+.home{background-color:#dbe2ef;
+    background-image: url("web-dev.png");
+    background-attachment: fixed;
+    background-size: cover;
+    text-align: center;
+    font-family:DFGothic-EB;
+    color:#112d4e;}
+.home p{text-align:right ;
+        right: 20px;
+        font: size 10px;}
+.home h1{font-size:350%;
+.salam{text-align: center;
+    color:#112d4e;
+    font-family:DFGothic-EB;}
+.salam p{font-size:120%;
+        margin: 50px;}
+.salam h2{font-size:250%;
+    text-align: center;}
+.portofolio{font-family:DFGothic-EB;
+        color:#d6e6f2;
+        background-color:#3f72af ;
+        right: 20px;}
+.portofolio h2{font-size:200%;
+    color:#d6e6f2;
+    text-align: center;}
+.portofolio p{font-size:120%;
+            text-align: center;}
+
+.cp{background-color: #d6e6f2;
+    text-align: center;
+    font-family:DFGothic-EB;
+    font-size: 20px;
+    font-family: DFGothic-EB;
+    color: #112d4e;}
+.pesan{background-image: url("web-dev.png");
+    background-attachment: fixed;
+    background-size: cover;}
+.pesan div{background-color:#d6e6f2;
+        padding:20px;
+        border: 5px solid #112d4e;
+        text-align: center;
+        font-family:DFGothic-EB;
+        color:#112d4e;}
+/* div{padding:20px;
+    border: 5px solid #3f72af;} */
+#favicon{
+        height: 50px;
+        width: 50px;
+        border-radius: 50%;
+        border: 4px solid #3f72af;
+        float: left;}
+#icon{height: 180px;
+    width: 180px;
+    border-radius: 50%;
+    border: 4px solid #3f72af;}
+
+#icon2{height: 40px;
+        width: 40px;
+        float: center;}
+
