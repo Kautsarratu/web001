@@ -10,7 +10,7 @@ body{background-color: #dbe2ef;}
 .home p{text-align:right ;
         right: 20px;
         font: size 10px;}
-.home h1{font-size:350%;
+.home h1{font-size:350%;}
 .salam{text-align: center;
     color:#112d4e;
     font-family:DFGothic-EB;}
@@ -43,8 +43,6 @@ body{background-color: #dbe2ef;}
         text-align: center;
         font-family:DFGothic-EB;
         color:#112d4e;}
-/* div{padding:20px;
-    border: 5px solid #3f72af;} */
 #favicon{
         height: 50px;
         width: 50px;
